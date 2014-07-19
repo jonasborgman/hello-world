@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-testing a new repository
+This is a first test on how github works.
+
+/Jonas
